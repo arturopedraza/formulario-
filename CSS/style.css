@@ -1,0 +1,98 @@
+/* estilos de carousel  */
+.carousel-item {
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+.carousel {
+    background: url(../IMG/fondobien.jpg);
+   
+}
+/* estilos de footer  */
+  body {
+    display: flex;
+    min-height: 50vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+#footer {
+    height: 300px;
+}
+#foote {
+    position: relative;
+    top: 40px;
+}
+#whatss {
+    height: 28px;
+}
+#mail {
+    height: 28px;
+}
+
+#facebook{
+    height: 35px;
+    margin: 10px;
+}
+#whatssap {
+    height: 35px;
+    margin: 10px;
+}
+#email {
+    height: 35px;
+    margin: 10px;
+}
+.tamanio {
+    font-size: 12px;
+}
+
+/* estilos de imagenes  */
+
+#img1 {
+    margin: 0px;
+    width: 100%;
+    
+}
+
+#img2 {
+    width: 100%;
+    margin: 0px;
+}
+
+.i {
+    display:inline-block;
+}
+
+
+
+/*estilos del acordeon */
+
+
+
+.collapsible {
+    width: 300px;
+    position: relative;
+    left: 15px;
+    top: 10px;
+}
+
+
+.carro {
+    position: relative;
+    top: 50px;
+}
+
+
+/*estilos de contacto js*/
+#ul li {
+    display: inline-block;
+    
+}
+#face {
+    height: 25px;
+}
+
+
